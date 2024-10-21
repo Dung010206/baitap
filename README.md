@@ -1,2 +1,1 @@
-# baitap
-cái gì cũng được 
+day la file sua
